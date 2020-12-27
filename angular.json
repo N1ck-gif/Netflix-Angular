@@ -31,6 +31,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -127,5 +128,8 @@
       }
     }
   },
-  "defaultProject": "NetflixAngular"
+  "defaultProject": "NetflixAngular",
+  "cli": {
+    "analytics": "3d5ec5f9-e8af-49c7-8a05-fec6e3481f81"
+  }
 }
