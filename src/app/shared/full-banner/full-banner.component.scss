@@ -4,15 +4,17 @@
     background-size: contain;
     background-repeat: no-repeat;
     background-position: right;
-}
-.full-banner small {
-    color: #999898;
-}
-.full-banner .btn-primary {
-    background-color: #E30F19;
-    border-radius: 0;
-    border: none;
-    min-width: 100px;
+
+    small {
+        color: #999898;
+    }
+
+    .btn-primary {
+        background-color: #E30F19;
+        border-radius: 0;
+        border: none;
+        min-width: 100px;
+    }
 }
 
 @media (min-width: 576px) {
